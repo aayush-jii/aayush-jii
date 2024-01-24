@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-jii&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-jii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-jii" alt="aayush-jii" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ayyu_4x" target="blank"><img src="https://img.shields.io/twitter/follow/ayyu_4x?logo=twitter&style=for-the-badge" alt="ayyu_4x" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend**
