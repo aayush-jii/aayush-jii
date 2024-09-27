@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 📫 How to reach me **ayu186sh@gmail.com**
+- 📫 How to reach me **heyayyus@gmail.com**
 
 - ⚡ Fun fact **volatile property😂**
 
