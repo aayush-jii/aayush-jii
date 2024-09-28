@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **heyayyus@gmail.com**
 
-- ⚡ Fun fact **volatile property😂**
+- ⚡ Fun fact **volatile property**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
